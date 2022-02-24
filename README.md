@@ -1,1 +1,1 @@
-# alx-pre_course
+ALX is challenging, but rewarding
